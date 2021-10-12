@@ -1,0 +1,18 @@
+@charset "windows-1256";
+
+.add{
+	font-size: large;
+	color: white;
+	background: green;
+	border: 2px solid black;
+	padding: 10px;
+	transition-duration:0.5s;
+}
+.myTable{
+	width: 100%;
+	font-family: sans-serif;
+	
+}
+.error{
+	color: red;
+}
